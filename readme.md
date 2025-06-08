@@ -78,15 +78,6 @@ ux-analytics-fintech/
 pip install -r requirements.txt
 ```
 
-## Dependencies
-
-- google-play-scraper==1.2.7
-- pandas==2.2.0
-- schedule==1.2.2
-- fpdf==1.7.2
-- matplotlib==3.8.2
-- seaborn==0.13.0
-
 ## Usage
 
 1. Data Collection:
